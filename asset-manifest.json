@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/szamologep/static/css/main.07ace1a6.css",
+    "main.js": "/szamologep/static/js/main.b07f569d.js",
+    "static/js/453.2a57c82d.chunk.js": "/szamologep/static/js/453.2a57c82d.chunk.js",
+    "static/media/112.gif": "/szamologep/static/media/112.971f9857b19a46922f42.gif",
+    "index.html": "/szamologep/index.html",
+    "main.07ace1a6.css.map": "/szamologep/static/css/main.07ace1a6.css.map",
+    "main.b07f569d.js.map": "/szamologep/static/js/main.b07f569d.js.map",
+    "453.2a57c82d.chunk.js.map": "/szamologep/static/js/453.2a57c82d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ace1a6.css",
+    "static/js/main.b07f569d.js"
+  ]
+}
