@@ -1,7 +1,7 @@
 {
   "name": "g",
   "version": "0.1.0",
-  "homepage": "https://bzsolti0319.github.io/szamologep",
+  "homepage": "https://BZsolti0319.github.io/szamologep",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
